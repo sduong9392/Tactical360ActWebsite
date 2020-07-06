@@ -6,8 +6,7 @@ summary: "Short Description"
 tag: "featured"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vmUwThdHAOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTE0MzE5MiwtMTQ4NjE1NTg2OSwtMz
-M2NzEyNzIxXX0=
+eyJoaXN0b3J5IjpbLTM1MjI2NTU0NywtOTAxMTQzMTkyLC0xND
+g2MTU1ODY5LC0zMzY3MTI3MjFdfQ==
 -->
