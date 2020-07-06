@@ -1,12 +1,12 @@
 ---
-title: "LTC"
+title: "Pre-LTC"
 price: "$150"
 image: https://image.shutterstock.com/image-photo/police-special-operations-practicing-fire-260nw-397249246.jpg
 tag: "featured"
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNTAzMDcyLC0xNjYyMzc1NTUxLDE3OD
-c3MzE5MDcsLTM1MjI2NTU0NywtOTAxMTQzMTkyLC0xNDg2MTU1
-ODY5LC0zMzY3MTI3MjFdfQ==
+eyJoaXN0b3J5IjpbNTY0NTAzNDY2LDg3MDUwMzA3MiwtMTY2Mj
+M3NTU1MSwxNzg3NzMxOTA3LC0zNTIyNjU1NDcsLTkwMTE0MzE5
+MiwtMTQ4NjE1NTg2OSwtMzM2NzEyNzIxXX0=
 -->
