@@ -1,0 +1,151 @@
+---
+layout: default
+---
+<!-- HOME -->
+<section id="home" class="slider" data-stellar-background-ratio="0.5">
+     <div class="row">
+          <div class="item item-first" id="heroImage">
+               <div class="caption">
+                    <div class="container">
+                         <div class="col-md-8 col-sm-12">
+                              <h1 id="heroTitle"></h1>
+                              <a id="heroButton" href="#featured-main"
+                                   class="section-btn btn btn-default smoothScroll"></a>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+
+<section id="featured-main" data-stellar-background-ratio="0.5">
+     <div class="container">
+          <div class="row">
+               <div class="col-md-12 col-sm-12">
+                    <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                         <h2 id="featuredTitle"></h2>
+                         <h4 id="featuredSubtitle" style="font-size: 1.1rem;"></h4>
+                    </div>
+               </div>
+               {% for course in site.pages %}
+               {% if course.tag == 'featured' %}
+               <div class="col-md-4 col-sm-4">
+
+                    <div class="w3-container">
+                         <div class="w3-card-4 courses-box" style="width:100%; box-shadow: 0 6px 25px 0 black;">
+                              <header class="w3-container w3-dark-grey"
+                                   style="background-color: rgb(26, 26, 26)!important;">
+                                   <h3 class="center-it">{{ course.title }}</h3>
+                              </header>
+                              <div class="w3-container">
+                                   <img src="{{ course.image }}" class="centered-and-cropped">
+                                   <hr>
+                                   <p>
+                                        {{ course.price }}
+                                        <br>
+                                        {{ course.summary }}
+                                   </p>
+                              </div>
+                              <a href="{{ site.baseurl }}{{ course.url }}">
+                                   <button class="w3-button w3-block w3-dark-grey">View More</button>
+                              </a>
+                         </div>
+                    </div>
+               </div>
+               {% endif %}
+               {% endfor %}
+          </div>
+          <a href="/courses.html" class="section-btn btn btn-default smoothScroll" style="margin-top: 40px;" id="featuredButton"></a>
+     </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" data-stellar-background-ratio="0.5">
+     <div class="container">
+          <div class="row">
+               <div class="col-md-6 col-sm-12">
+                    <div class="about-info">
+                         <div class="section-title wow fadeInUp" data-wow-delay="0.2s">
+                              <h4 id="aboutSubtitle"></h4>
+                              <h2 id="aboutTitle"></h2>
+                         </div>
+                         <div class="wow fadeInUp" data-wow-delay="0.4s">
+                              <p id="aboutDescription">
+                              </p>
+                              <br>
+                              <a href="/about.html" class="section-btn btn btn-default smoothScroll" id="aboutButton"></a>
+                         </div>
+                    </div>
+               </div>
+               <div class="col-md-6 col-sm-12">
+                    <div class="wow fadeInUp about-image" data-wow-delay="0.6s">
+                         <img id="aboutImage" class="img-responsive" alt="">
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq" data-stellar-background-ratio="0.5">
+     <div class="overlay"></div>
+     <div class="container">
+          <div class="row">
+               <div class="col-md-12 col-sm-12">
+                    <div class="section-title wow fadeInUp" data-wow-delay="0.1s" style="text-align: center;">
+                         <h2 id="faqTitle"></h2>
+                    </div>
+               </div>
+               <div class="col-md-offset-2 col-md-8 col-sm-12">
+                    <button class="accordion" id="question1"></button>
+                    <div class="panel">
+                         <p id="answer1"></p>
+                    </div>
+                    <button class="accordion" id="question2"></button>
+                    <div class="panel">
+                         <p id="answer2"></p>
+                    </div>
+                    <button class="accordion" id="question3"></button>
+                    <div class="panel">
+                         <p id="answer3"></p>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+
+<!-- TESTIMONIAL -->
+<section id="testimonial" data-stellar-background-ratio="0.5">
+     <div class="overlay"></div>
+     <div class="container" style="max-width: 1320px;">
+          <div class="row">
+               <div class="col-md-12 col-sm-12">
+                    <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                         <h2 id="testimonialTitle"></h2>
+                    </div>
+               </div>
+               <div class="col-md-12 col-sm-12">
+                    <div class="section-title wow fadeInUp" data-wow-delay="0.1s">
+                         <div class="col-md-4 col-sm-4">
+                              <p id="testimonialMessage1"></p>
+                              <div class="tst-author">
+                                   <h4 id="testimonialAuthor1"></h4>
+                              </div>
+                         </div>
+                         <div class="col-md-4 col-sm-4">
+                              <p id="testimonialMessage2"></p>
+                              <div class="tst-author">
+                                   <h4 id="testimonialAuthor2"></h4>
+                              </div>
+                         </div>
+                         <div class="col-md-4 col-sm-4">
+                              <p id="testimonialMessage3"></p>
+                              <div class="tst-author">
+                                   <h4 id="testimonialAuthor3"></h4>
+                              </div>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>

@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<!-- HOME -->
+<section id="home" class="slider" data-stellar-background-ratio="0.5">
+    <div class="row">
+        <div class="item item-first" style="background-image: url('/images/temp.jpg');
+            height:400px">
+            <div class="caption" style="cursor: auto">
+                <div class="container">
+                    <div style="text-align: center;">
+                        <h1>{{ page.title }}</h1>
+                        <h4>{{ page.summary }}</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="container">
+    <div class="row closedImg">
+        <div class="col-lg-6 col-md-6">
+            <img class="centered-and-cropped" style="height: auto;" src="{{ page.image }}">
+        </div>
+        <div class="col-lg-6 col-md-6">
+            <h1>{{ page.title }}</h1>
+            <h4 style="color: whitesmoke;">{{ page.summary }}</h4>
+            <h4 style="color: whitesmoke;">{{ page.price }}</h4>
+            <p>{{ content }}</p>
+            <script type="text/javascript" src="https://form.jotform.com/jsform/201664660988164"></script>
+        </div>
+        <div class="col-lg-12 col-md-12" style="margin-top: 60px;">
+            <div id="courses-carousel" class="owl-carousel owl-theme">
+                {% for course in site.pages %}
+                {% if course.type == 'addon' %}
+                    <div class="w3-container">
+                        <div class="w3-card-4 courses-box" style="width:100%; box-shadow: 0 6px 25px 0 black;">
+                            <header class="w3-container w3-dark-grey"
+                                style="background-color: rgb(26, 26, 26)!important;">
+                                <h3 class="center-it">{{ course.title }}</h3>
+                            </header>
+                            <div class="w3-container">
+                                <img src="{{ course.image }}"
+                                    class="centered-and-cropped">
+                                <hr>
+                                <p>
+                                    {{ course.price }}
+                                    <br>
+                                    {{ course.summary }}
+                                </p>
+                            </div>
+                            <a href="{{ site.baseurl }}{{ course.url }}">
+                                <button class="w3-button w3-block w3-dark-grey">View More</button>
+                            </a>
+                        </div>
+                    </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
