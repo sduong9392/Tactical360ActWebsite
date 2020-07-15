@@ -1,7 +1,7 @@
 ---
 title: "License To Carry"
 price: "$185"
-image: 
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJGAL9MeiEXilSelhFWg4pjVXRVQdQAROHlA&usqp=CAU
 summary: "L.T.C"
 ---
 This class provides the Texas Department of Public Safety (D.P.S) required classroom training and firearm qualification students need in order to obtain a Texas License to Carry a Handgun (L.T.C).
@@ -17,7 +17,7 @@ To train and qualify a student to submit application to the Texas Handgun Licens
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTMzOTAzMiwtNjk3NjMzMDE2LC0xND
-Q5NzU0MTA0LC04MDY1OTMzLC0xNTc5NDA2MzM3LDI5ODUxNjc0
-MF19
+eyJoaXN0b3J5IjpbLTIxNDQzNjMxNjksLTU1NTMzOTAzMiwtNj
+k3NjMzMDE2LC0xNDQ5NzU0MTA0LC04MDY1OTMzLC0xNTc5NDA2
+MzM3LDI5ODUxNjc0MF19
 -->
