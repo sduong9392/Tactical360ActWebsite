@@ -1,7 +1,7 @@
 ---
 title: "Private Instructor Observation"
 price: "$265"
-image:"https://images.pexels.com/photos/3536235/pexels-photo-3536235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+image: https://images.pexels.com/photos/3536235/pexels-photo-3536235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 summary: "2 hours Private Training"
 ---
 2 Hours of Private Instruction: Our dedicated Founder will work with you one on one to improve your shooting knowledge, skills and ability.  Private coaching is the fastest way to gain skill and confidence with your gun as well as your riffles.
@@ -11,7 +11,7 @@ Why waste time, money, and ammunition struggling to teach yourself, when our pri
 ***Reserve booking 2 weeks in advance.***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzY0NTc4MTMsLTE4NDgwNDMzMzMsMj
-g0NTUzOTAzLC0xMjEyNDQ4ODQxLC0xMjYxNTcwODcyLDc5MTIx
-MjAwNF19
+eyJoaXN0b3J5IjpbLTQ0MTQ0MDk2NSwtMTc3NjQ1NzgxMywtMT
+g0ODA0MzMzMywyODQ1NTM5MDMsLTEyMTI0NDg4NDEsLTEyNjE1
+NzA4NzIsNzkxMjEyMDA0XX0=
 -->
