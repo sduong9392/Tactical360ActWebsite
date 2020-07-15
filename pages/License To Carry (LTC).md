@@ -13,10 +13,10 @@ To train and qualify a student to submit application to the Texas Handgun Licens
 **Class Prerequisite**
 -   Basic proficiency with a handgun
 
-*L.T.C classes are not intended to train students how to shoot a handgun. The qualification test portion of the course is required by the State of Texas in order to demonstrate your ability to safely and properly handle and shoot a handgun.*
+***L.T.C classes are not intended to train students how to shoot a handgun. The qualification test portion of the course is required by the State of Texas in order to demonstrate your ability to safely and properly handle and shoot a handgun.***
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcyNDEwOSwtMTU3OTQwNjMzNywyOT
-g1MTY3NDBdfQ==
+eyJoaXN0b3J5IjpbLTgwNjU5MzMsLTE1Nzk0MDYzMzcsMjk4NT
+E2NzQwXX0=
 -->
