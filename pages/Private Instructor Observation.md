@@ -1,6 +1,6 @@
 ---
 title: "Private Instructor Observation"
-price: "$170"
+price: "$265"
 image: "https://images.pexels.com/photos/3536235/pexels-photo-3536235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
 summary: "2 hours Private Training"
 ---
@@ -10,6 +10,6 @@ Why waste time, money, and ammunition struggling to teach yourself, when our pri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI0NDg4NDEsLTEyNjE1NzA4NzIsNz
-kxMjEyMDA0XX0=
+eyJoaXN0b3J5IjpbLTE2MjAwNzQyNzQsLTEyMTI0NDg4NDEsLT
+EyNjE1NzA4NzIsNzkxMjEyMDA0XX0=
 -->
