@@ -1,10 +1,10 @@
 ---
 
-title: "Firearms Safety"
+title: "Basic Handgun Essentials "
 price: "$150"
 image:
 ---
-
+This class is designed to teach the essentials
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTY5NjMxNV19
+eyJoaXN0b3J5IjpbNzU0NTEyMDNdfQ==
 -->
