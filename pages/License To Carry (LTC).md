@@ -7,10 +7,10 @@ summary: "Short Description"
 This class provides the Texas Department of Public Safety (D.P.S) required classroom training and firearm qualification students need in order to obtain a Texas License to Carry a Handgun (L.T.C).
 
 To train and qualify a student to submit application to the Texas Handgun Licensing Program. Upon completion, students will have the following materials required to submit their application:
-
 -   Instructor certification for completed classroom curriculum.
--   Instructor certification for completed handgun qualification test
-.**Class Prerequisite**
+-   Instructor certification for completed handgun qualification test.
+
+**Class Prerequisite**
 
 -   Basic proficiency with a handgun
 
@@ -18,6 +18,6 @@ LTC are not intended to train students how to shoot a handgun. The qualification
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyMzQyNzcsLTE1Nzk0MDYzMzcsMj
+eyJoaXN0b3J5IjpbLTEwOTE1ODk1NjksLTE1Nzk0MDYzMzcsMj
 k4NTE2NzQwXX0=
 -->
