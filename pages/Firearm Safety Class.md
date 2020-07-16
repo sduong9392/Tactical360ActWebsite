@@ -1,7 +1,7 @@
 ---
 title: "Firearm Safety Class"
 price: "$65"
-image:
+image: 
 
 summary: "Firearms Safety"
 ---
@@ -11,6 +11,6 @@ tag: "featured"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzc4ODQ3NCwxMDgyNDI4NjUxLC0zOT
-I1OTkxODMsMTcwOTIzNTkzNl19
+eyJoaXN0b3J5IjpbLTY3MjQzMjE3NCwxODg3Nzg4NDc0LDEwOD
+I0Mjg2NTEsLTM5MjU5OTE4MywxNzA5MjM1OTM2XX0=
 -->
