@@ -1,7 +1,7 @@
 ---
 title: "Firearm Safety Class"
 price: "$65"
-image: 
+image: "https://projectchildsafe.org/sites/all/themes/childsafenew/img/ors-logo.png"
 
 summary: "Firearms Safety"
 ---
@@ -11,7 +11,7 @@ tag: "featured"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjQzMjE3NCwxMjc2MTI3NzE5LDUzMj
+eyJoaXN0b3J5IjpbMTI3NjEyNzcxOSwxMjc2MTI3NzE5LDUzMj
 MzNDk1MSwxODg3Nzg4NDc0LDEwODI0Mjg2NTEsLTM5MjU5OTE4
 MywxNzA5MjM1OTM2XX0=
 -->
