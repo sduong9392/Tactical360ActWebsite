@@ -1,5 +1,5 @@
 ---
-title: "Private Instructor Observation"
+title: "Private Instructor"
 price: "$375"
 image: https://images.pexels.com/photos/3536235/pexels-photo-3536235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 summary: "3 hours Private Training"
@@ -14,8 +14,8 @@ Four to six hours of Private Training will cover the same material as a typical 
 ***Reserve booking 2 weeks in advance.***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODUyMDQ2OCwtMTYxMjgwMjA2MCwtND
-QxNDQwOTY1LC0xNzc2NDU3ODEzLC0xODQ4MDQzMzMzLDI4NDU1
-MzkwMywtMTIxMjQ0ODg0MSwtMTI2MTU3MDg3Miw3OTEyMTIwMD
-RdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQzNDY0OTYsLTE2MTI4MDIwNjAsLT
+Q0MTQ0MDk2NSwtMTc3NjQ1NzgxMywtMTg0ODA0MzMzMywyODQ1
+NTM5MDMsLTEyMTI0NDg4NDEsLTEyNjE1NzA4NzIsNzkxMjEyMD
+A0XX0=
 -->
