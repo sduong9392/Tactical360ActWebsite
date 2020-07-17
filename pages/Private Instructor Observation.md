@@ -6,12 +6,15 @@ summary: "2 hours Private Training"
 ---
 2 Hours of Private Instruction: Our dedicated Founder will work with you one on one to improve your shooting knowledge, skills and ability.  Private coaching is the fastest way to gain skill and confidence with your gun as well as your riffles.
 
-Why waste time, money, and ammunition struggling to teach yourself, when our private gun training will help you diagnose most shooting problems in minutes. With the help of our experienced Founder, you can quickly identify and fix shooting problems with your grip, stance, sight picture, or pistol malfunctions. Gain confidence in safe handling, marksman, and gun handling skills.
+Why waste time, money, and ammunition struggling to teach yourself, when our private gun training will help you diagnose most shooting problems in minutes. With the help of our experienced Founder, you can quickly identify and fix shooting problems with your grip, stance, sight picture, or pistol malfunctions.
+Four to six hours of Private Training will cover the same material as a typical two-day Group Class, without the added distraction of additional students. Private Range instruction will cover the safe use of a defensive handgun including Home Defense and Low-Light Tactics. Topics include: Firearm Safety, Gun Handling, and the basic fundamentals of Defensive Handgun shooting. We will also cover the draw, speed reloads, malfunction clearing, use of cover, and engaging multiple targets, and tactical flashlight options.
+
+**This is an excellent opportunity to do some training with your family. Ammunition can purchased separately. or we can provide it for an additional cost. You can have one (1) to nine (9) people in a 4+ hour Private or Private Group class. The Cost for 4 or more hours is $125.00 per-hour plus $50 per-person).**
 
 ***Reserve booking 2 weeks in advance.***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTQ0MDk2NSwtMTc3NjQ1NzgxMywtMT
-g0ODA0MzMzMywyODQ1NTM5MDMsLTEyMTI0NDg4NDEsLTEyNjE1
-NzA4NzIsNzkxMjEyMDA0XX0=
+eyJoaXN0b3J5IjpbLTE2MTI4MDIwNjAsLTQ0MTQ0MDk2NSwtMT
+c3NjQ1NzgxMywtMTg0ODA0MzMzMywyODQ1NTM5MDMsLTEyMTI0
+NDg4NDEsLTEyNjE1NzA4NzIsNzkxMjEyMDA0XX0=
 -->
