@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "Handgun Skills Progression"
 price: "$165"
@@ -10,6 +7,6 @@ summary: "Skills Progression"
 ---
 This class is designed to reiterate and build upon fundamental level one skills's.  Tactical 360 ACT will reinforce firearm safety rules, discuss gear for training and progress to move advanced shooting and reload techniques.  This is class is ideal for someone who knows how to operate a handgun and wants to further develop their skills and training methods.  Absolutely, this is not a regular L.T.C course!!!.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjExMjY5MSwtNDUxNDE2Mjk5LC0xND
-g4MDExMDU1XX0=
+eyJoaXN0b3J5IjpbLTIxMjMxMzM0NDMsLTQ1MTQxNjI5OSwtMT
+Q4ODAxMTA1NV19
 -->
