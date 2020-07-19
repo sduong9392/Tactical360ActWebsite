@@ -1,7 +1,7 @@
 ---
 title: "Private Instructor"
 price: "$375"
-image: https://images.pexels.com/photos/3536235/pexels-photo-3536235.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+image:https://lh3.googleusercontent.com/proxy/nWrLDMF7LfJ1qTf0WPFVGqa-wehZilSP16IOHs8MW8tKHZENoOnyJYejKbPCKTHYTddpNBeLajQfdAQ-DAqq8KD-h6TVefnQEOgrthJWaAM2vvNg8MuG1YKF7gZmx6CW49xyKvOcjWvjlRh3TIHPKnnrVrB6Dl4Kbsf-8X2zRg
 summary: "3 hours Private Training"
 ---
 3 Hours of Private Instruction: Our dedicated Founder will work with you one-on-one to improve your shooting knowledge, skills and ability.  Private coaching is the fastest way to gain skill and confidence with your gun as well as your riffles.
@@ -14,8 +14,8 @@ Four to six hours of Private Training will cover the same material as a typical 
 ***Reserve booking 2 weeks in advance.***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQzNDY0OTYsLTE2MTI4MDIwNjAsLT
-Q0MTQ0MDk2NSwtMTc3NjQ1NzgxMywtMTg0ODA0MzMzMywyODQ1
-NTM5MDMsLTEyMTI0NDg4NDEsLTEyNjE1NzA4NzIsNzkxMjEyMD
-A0XX0=
+eyJoaXN0b3J5IjpbLTI3NDUxOTQyMywtMTcwNDM0NjQ5NiwtMT
+YxMjgwMjA2MCwtNDQxNDQwOTY1LC0xNzc2NDU3ODEzLC0xODQ4
+MDQzMzMzLDI4NDU1MzkwMywtMTIxMjQ0ODg0MSwtMTI2MTU3MD
+g3Miw3OTEyMTIwMDRdfQ==
 -->
