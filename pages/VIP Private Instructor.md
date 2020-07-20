@@ -1,5 +1,5 @@
 ---
-title: "Private Instructor"
+title: "VIP Private Instructor"
 price: "$375"
 image: https://img.wallpapersafari.com/desktop/1680/1050/16/2/Vu0nlF.jpg
 summary: "3 hours Private Training"
@@ -14,5 +14,5 @@ Four to six hours of Private Training will cover the same material as a typical 
 ***Reserve booking 2 weeks in advance.***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA2MzQ1NF19
+eyJoaXN0b3J5IjpbLTE3NTg5MjM5NjldfQ==
 -->
